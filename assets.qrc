@@ -1,2 +1,8 @@
-<!DOCTYPE RCC>
-<RCC version="1.0"/>
+<RCC>
+    <qresource prefix="/assets">
+        <file alias="background.png">assets/background.png</file>
+        <file alias="pinwheel.png">assets/pinwheel.png</file>
+        <file alias="rod.png">assets/rod.png</file>
+        <file alias="stick.png">assets/stick.png</file>
+    </qresource>
+</RCC>
